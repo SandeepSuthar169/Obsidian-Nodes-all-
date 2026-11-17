@@ -1,0 +1,22 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "tabSize": 3,
+  "autoConvertHtml": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "smartIndentList": true,
+  "settingsPopoutWindow": true,
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "useTab": true,
+  "showIndentGuide": true,
+  "spellcheck": true,
+  "livePreview": true
+}

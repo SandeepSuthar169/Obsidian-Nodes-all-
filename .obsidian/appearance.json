@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Flexoki",
+  "textFontFamily": "JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}
