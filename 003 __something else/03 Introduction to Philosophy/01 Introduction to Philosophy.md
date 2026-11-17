@@ -3,6 +3,7 @@
 - Philosophy cannot be bound by such assumptions.
 - Philosophy is one way to begin to understand philosophy is to the look at in its history. 
 - The earliest Greek philosophy ware not known as philosophers, they are knows as sagas.
+- 
 - Philosophy is not an empirical science. 
 
 ### ~={blue}Source of Evidence=~
